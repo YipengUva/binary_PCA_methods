@@ -1,3 +1,6 @@
+This repository cotains the R scripts to reproducing the "Principal Component Analysis of Binary Genomics Data" paper \url{https://academic.oup.com/bib/article/20/1/317/4372404}.
+
+
 title:  Code for reproducing "Principal Component Analysis of Binary Genomics Data" paper
         Article Doi 10.1093/bib/bbx119
 author: Yipeng Song
