@@ -1,4 +1,4 @@
-This repository cotains the R scripts to reproducing the "Principal Component Analysis of Binary Genomics Data" paper \url{https://academic.oup.com/bib/article/20/1/317/4372404}.
+This repository cotains the R scripts to reproducing the "Principal Component Analysis of Binary Genomics Data" paper \url{https://academic.oup.com/bib/article/20/1/317/4372404}. The original version can be found in \url{http://www.bdagroup.nl}.
 
 
 title:  Code for reproducing "Principal Component Analysis of Binary Genomics Data" paper
